@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "GitHub"
+    url: https:/www.github.com/martinmuelas/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Posts"
+    url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
