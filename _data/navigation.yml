@@ -2,8 +2,8 @@
 main:
   - title: "GitHub"
     url: https:/www.github.com/martinmuelas/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Sobre mí"
+    url: /sobre-mi/
   - title: "Posts"
     url: /year-archive/
   # - title: "Sample Collections"
