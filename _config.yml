@@ -18,9 +18,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "es-ES"
 title: "MMLabs"
 title_separator: "-"
-subtitle: "Un Portfolio de Data Science" # site tagline that appears below site title in masthead
+subtitle: "Aprendiendo de los datos" # site tagline that appears below site title in masthead
 name: "Martín Muelas"
-description: "Un portfolio personal con proyectos y artículos de Data Science."
+description: "Un blog sobre el mundo de los datos, tecnología y programación."
 url: "https://martinmuelas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "martinmuelas/martinmuelas.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
