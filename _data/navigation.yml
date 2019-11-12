@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "GitHub"
-    url: https:/www.github.com/martinmuelas/
+  - title: "Inicio"
+    url: /
   - title: "Sobre mí"
     url: /sobre-mi/
   - title: "Posts"
