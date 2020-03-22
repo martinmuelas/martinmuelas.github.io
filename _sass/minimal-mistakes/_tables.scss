@@ -6,9 +6,11 @@ table {
   display: block;
   margin-bottom: 1em;
   width: 100%;
-  font-family: $global-font-family;
-  font-size: $type-size-6;
+  font-family: $monospace;
+  // font-family: $global-font-family;
+  font-size: $type-size-7;
   border-collapse: collapse;
+  border: 0 !important;
   overflow-x: auto;
 
   & + table {
