@@ -7,7 +7,7 @@ excerpt: Análisis del mercado de aplicaciones de Android, comparando más de di
 categories: [notebook]
 tags: [data manipulation, data visualization]
 header:
-  teaser: ../assets/images/jupyter/analisis-google-play_files/google-play-logo.png
+  teaser: ../assets/images/jupyter/analisis_google_play_files/google-play-logo.png
 ---
 
 Las aplicaciones móviles están en todas partes. Son fáciles de crear y pueden ser lucrativas. Debido a estos dos factores, se están desarrollando cada vez más y más aplicaciones. Hagamos un análisis del mercado de aplicaciones de Android comparando más de diez mil aplicaciones en Google Play en diferentes categorías. Buscaremos información en los datos para diseñar estrategias para impulsar el crecimiento y la retención de nuestros usuarios.
@@ -219,7 +219,7 @@ plt.show()
 
     Número de categorías =  33
 
-![png](/assets/images/jupyter/analisis-google-play_files/analisis-google-play_6_1.png)
+![png](/assets/images/jupyter/analisis_google_play_files/analisis_google_play_6_1.png)
 
 ### Distribución de las calificaciones
 
@@ -244,7 +244,7 @@ plt.show()
 
     Calificación promedio de las apps =  4.173243045387998
 
-![png](/assets/images/jupyter/analisis-google-play_files/analisis-google-play_8_1.png)
+![png](/assets/images/jupyter/analisis_google_play_files/analisis_google_play_8_1.png)
 
 ### Tamaño y precio de una app
 
@@ -276,9 +276,9 @@ paid_apps = apps[apps['Type'] == "Paid"]
 plt2 = sns.jointplot(x = paid_apps["Price"], y = paid_apps["Rating"])
 ```
 
-![png](/assets/images/jupyter/analisis-google-play_files/analisis-google-play_10_0.png)
+![png](/assets/images/jupyter/analisis_google_play_files/analisis_google_play_10_0.png)
 
-![png](/assets/images/jupyter/analisis-google-play_files/analisis-google-play_10_1.png)
+![png](/assets/images/jupyter/analisis_google_play_files/analisis_google_play_10_1.png)
 
 ### Relación entre precio y categoría
 
@@ -436,7 +436,7 @@ apps_above_200
 </table>
 </div>
 
-![png](/assets/images/jupyter/analisis-google-play_files/analisis-google-play_12_1.png)
+![png](/assets/images/jupyter/analisis_google_play_files/analisis_google_play_12_1.png)
 
 ### Filtremos apps basura
 
@@ -457,7 +457,7 @@ ax.set_title('Tendencia de precios a través de las categorías filtrando apps b
 plt.show()
 ```
 
-![png](/assets/images/jupyter/analisis-google-play_files/analisis-google-play_14_0.png)
+![png](/assets/images/jupyter/analisis_google_play_files/analisis_google_play_14_0.png)
 
 ### Popularidad de apps pagas vs. apps gratuitas
 
@@ -495,7 +495,7 @@ plt.yticks([100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000],
 plt.show()
 ```
 
-![png](/assets/images/jupyter/analisis-google-play_files/analisis-google-play_16_0.png)
+![png](/assets/images/jupyter/analisis_google_play_files/analisis_google_play_16_0.png)
 
 ### Análisis de sentimiento para las reseñas de usuarios
 
@@ -522,7 +522,7 @@ ax.set_title('Distribución de polaridad de sentimientos')
 plt.show()
 ```
 
-![png](/assets/images/jupyter/analisis-google-play_files/analisis-google-play_18_0.png)
+![png](/assets/images/jupyter/analisis_google_play_files/analisis_google_play_18_0.png)
 
 En este artículo hemos analizamos más de diez mil aplicaciones de Google Play Store. Podríamos utilizar estos hallazgos para tomar decisiones si alguna vez desearamos crear una aplicación nosotros mismos.
 
