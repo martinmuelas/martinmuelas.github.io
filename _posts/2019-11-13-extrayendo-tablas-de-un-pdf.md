@@ -7,6 +7,7 @@ categories: [blog]
 tags: [scrapping, data wrangling, python, tabula, pdf]
 header:
   teaser: ../assets/images/posts/2019-11-13/pdf_to_csv.jpg
+  og_image: ../assets/images/posts/2019-11-13/pdf_to_csv.jpg
 ---
 
 {% include figure image_path="../assets/images/posts/2019-11-13/pdf_to_csv.jpg" alt="dibujo archivo pdf a archivo csv" %}

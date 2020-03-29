@@ -6,6 +6,7 @@ permalink: sobre-este-blog
 excerpt: Un poco sobre mí, el origen y la motivación detrás de este blog.
 header:
   teaser: ../assets/images/posts/2019-11-11/header.jpg
+  og_image: ../assets/images/posts/2019-11-11/header.jpg
 ---
 
 {% include figure image_path="../assets/images/posts/2019-11-11/header.jpg" alt="pies sobre asfalto con graffiti de empieza aquí" %}

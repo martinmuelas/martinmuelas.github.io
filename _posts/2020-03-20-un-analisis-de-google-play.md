@@ -8,6 +8,7 @@ categories: [notebook]
 tags: [data manipulation, data visualization]
 header:
   teaser: ../assets/images/jupyter/analisis_google_play_files/google-play-logo.png
+  og_image: ../assets/images/jupyter/analisis_google_play_files/google-play-logo.png
 ---
 
 Las aplicaciones móviles están en todas partes. Son fáciles de crear y pueden ser lucrativas. Debido a estos dos factores, se están desarrollando cada vez más y más aplicaciones. Hagamos un análisis del mercado de aplicaciones de Android comparando más de diez mil aplicaciones en Google Play en diferentes categorías. Buscaremos información en los datos para diseñar estrategias para impulsar el crecimiento y la retención de nuestros usuarios.
