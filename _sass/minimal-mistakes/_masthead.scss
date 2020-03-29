@@ -15,7 +15,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: 0.4em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -85,9 +85,9 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 700;
 
   &--lg {
     padding-right: 2em;
