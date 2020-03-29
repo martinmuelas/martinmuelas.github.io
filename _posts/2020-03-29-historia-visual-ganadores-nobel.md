@@ -6,6 +6,7 @@ categories: [notebook]
 tags: [data manipulation, data visualization]
 header:
   teaser: ../assets/images/jupyter/historia_visual_ganadores_nobel_files/nobel_teaser.jpg
+  og_image: ../assets/images/jupyter/historia_visual_ganadores_nobel_files/nobel_teaser.jpg
 ---
 
 {% include figure image_path="../assets/images/jupyter/historia_visual_ganadores_nobel_files/nobel_header.jpg" alt="cartel con frase: for the greatest benefit to humankind" %}
