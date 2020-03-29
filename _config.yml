@@ -21,7 +21,7 @@ title_separator: "-"
 subtitle: "" # site tagline that appears below site title in masthead
 name: "Martín Muelas"
 description: "Un blog sobre programación, tecnología y el mundo de los datos."
-url: "https://martinmuelas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://www.mmlabs.com.ar/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "martinmuelas/martinmuelas.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: "/assets/image/teaser_500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
